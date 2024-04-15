@@ -23,7 +23,7 @@ class HomePage extends ConsumerWidget {
         centerTitle: true,
         backgroundColor: Colors.green,
         title: const Text(
-          "Home Page",
+          "Riverpod Page",
           style: TextStyle(color: Colors.white),
         ),
       ),
